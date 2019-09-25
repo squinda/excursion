@@ -49,6 +49,7 @@ table {
 body{
 	background: black;
 	font-family: "Verdana", sans-serif;
+	text-align: center;
 }
 h1, h2 ,a, p {
 	font-family: "Verdana", sans-serif;
@@ -56,6 +57,7 @@ h1, h2 ,a, p {
 h1 {
 	color: white;
 	font-size: 50px;
+	margin-bottom: 75px;
 }
 .title {
 	font-size: 50px;
@@ -71,10 +73,12 @@ h2 {
 	color: white;
 	font-weight: 300;
 	font-size: 42px;
+	margin-bottom: 50px;
 }
 p {
 	color: gray;
 	font-size: 21px;
+	margin-bottom: 25px;
 }
 .fa-copyright {
 	color: gray;
@@ -82,4 +86,15 @@ p {
 }
 .copyright p {
 	text-align: right;
+}
+.camp {
+	width: 75%;
+}
+.phone {
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+footer {
+	text-align: right;
+	font-family: "Verdana", sans-serif;
 }
