@@ -94,7 +94,11 @@ p {
 	margin-top: 25px;
 	margin-bottom: 50px;
 }
+img{
+	flex: column;
+}
 footer {
+	margin-top: 100px;
 	text-align: right;
 	font-family: "Verdana", sans-serif;
 }
